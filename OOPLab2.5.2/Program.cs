@@ -6,7 +6,7 @@ namespace OOPLab2._5._2
     {
         static void Input1(out int n)
         {
-            Console.Write("Введiть кiлькiсть рядкiв i стовпцiв масиву A i B =");
+            Console.Write("Введiть  кiлькiсть рядкiв i стовпцiв масиву A i B =");
             n = int.Parse(Console.ReadLine());
 
         }
